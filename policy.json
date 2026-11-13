@@ -1,0 +1,7 @@
+{
+  "rules": [
+    { "include": "defaults" },
+    { "domain": "*.socket.dev", "action": "allow" },
+    { "domain": "index.crates.io", "action": "allow" }
+  ]
+}
